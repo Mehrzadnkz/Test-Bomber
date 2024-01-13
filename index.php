@@ -80,7 +80,7 @@ sendmsg($user_id,"سلام کاربر گرامی
 🔺 مسولیت استفاده از این ربات بر عهده خودتان است 🔻
 
 🌟 کانال ما:
-🆔 @Merzadnkzbomber",$msg_id,$menu);
+🆔 @hackgm",$msg_id,$menu);
 }
 #spam
 if($txt_msg=="😈 اسپم شماره 😈") {
@@ -109,7 +109,7 @@ file_get_contents("https://qpdb6.com/api/sms/hgyv-fyfh2578-53fdrn-6a.php?tel=$tx
 sendmsg($user_id,"5 عدد پیام برای تست به شماره $txt_msg ارسال شد ✅
 
 🌟 کانال ما:
-🆔 @Merzadnkzbomber",$msg_id);}
+🆔 @hackgm",$msg_id);}
  else {
 sendmsg($user_id,"❗️لطفا شماره را بصورت عدد ارسال کنید️",$msg_id);}
 }
@@ -132,7 +132,7 @@ file_get_contents("https://qpdb6.com/api/sms/hgyv-fyfh2578-53fdrn-6a.php?tel=$tx
 sendmsg($user_id," 🗃 30 عدد پیام  به شماره $txt_msg ارسال شد ✅
 
 🌟 کانال ما:
-🆔 @Merzadnkzbomber",$msg_id);}
+🆔 @hackgm",$msg_id);}
  else {
 sendmsg($user_id,"❗️لطفا شماره را بصورت عدد ارسال کنید️",$msg_id);}
 }
@@ -155,7 +155,7 @@ file_get_contents("https://qpdb6.com/api/sms/hgyv-fyfh2578-53fdrn-6a.php?tel=$tx
 sendmsg($user_id," 🗃 50 عدد پیام به شماره $txt_msg ارسال شد ✅
 
 🌟 کانال ما:
-🆔 @Merzadnkzbomber",$msg_id);}
+🆔 @hackgm",$msg_id);}
  else {
 sendmsg($user_id,"❗️لطفا شماره را بصورت عدد ارسال کنید️",$msg_id);}
 }
@@ -179,7 +179,7 @@ file_get_contents("https://qpdb6.com/api/sms/hgyv-fyfh2578-53fdrn-6a.php?tel=$tx
 sendmsg($user_id," 🗃 80 عدد پیام برای به شماره $txt_msg ارسال شد ✅
 
 🌟 کانال ما:
-🆔 @Merzadnkzbomber",$msg_id);}
+🆔 @hackgm",$msg_id);}
  else {
 sendmsg($user_id,"❗️لطفا شماره را بصورت عدد ارسال کنید️",$msg_id);}
 }
@@ -203,7 +203,7 @@ file_get_contents("https://qpdb6.com/api/sms/hgyv-fyfh2578-53fdrn-6a.php?tel=$tx
 sendmsg($user_id," 🗃 100 عدد پیام به شماره $txt_msg ارسال شد ✅
 
 🌟 کانال ما:
-🆔 @Merzadnkzbomber",$msg_id);}
+🆔 @hackgm",$msg_id);}
  else {
 sendmsg($user_id,"❗️لطفا شماره را بصورت عدد ارسال کنید️",$msg_id);}
 }
@@ -227,7 +227,7 @@ file_get_contents("https://qpdb6.com/api/sms/hgyv-fyfh2578-53fdrn-6a.php?tel=$tx
 sendmsg($user_id," 🗃 130 عدد پیام به شماره $txt_msg ارسال شد ✅
 
 🌟 کانال ما:
-🆔 @Merzadnkzbomber",$msg_id);}
+🆔 @hackgm",$msg_id);}
  else {
 sendmsg($user_id,"❗️لطفا شماره را بصورت عدد ارسال کنید️",$msg_id);}
 }
@@ -251,7 +251,7 @@ file_get_contents("https://qpdb6.com/api/sms/hgyv-fyfh2578-53fdrn-6a.php?tel=$tx
 sendmsg($user_id," 🗃 150 عدد پیام به شماره $txt_msg ارسال شد ✅
 
 🌟 کانال ما:
-🆔 @Merzadnkzbomber",$msg_id);}
+🆔 @hackgm",$msg_id);}
  else {
 sendmsg($user_id,"❗️لطفا شماره را بصورت عدد ارسال کنید️",$msg_id);}
 }
@@ -275,7 +275,7 @@ file_get_contents("https://qpdb6.com/api/sms/hgyv-fyfh2578-53fdrn-6a.php?tel=$tx
 sendmsg($user_id," 🗃 180 عدد پیام به شماره $txt_msg ارسال شد ✅
 
 🌟 کانال ما:
-🆔 @Merzadnkzbomber",$msg_id);}
+🆔 @hackgm",$msg_id);}
  else {
 sendmsg($user_id,"❗️لطفا شماره را بصورت عدد ارسال کنید️",$msg_id);}
 }
@@ -299,7 +299,7 @@ file_get_contents("https://qpdb6.com/api/sms/hgyv-fyfh2578-53fdrn-6a.php?tel=$tx
 sendmsg($user_id," 🗃 200 عدد پیام  به شماره $txt_msg ارسال شد ✅
 
 🌟 کانال ما:
-🆔 @Merzadnkzbomber",$msg_id);}
+🆔 @hackgm",$msg_id);}
  else {
 sendmsg($user_id,"❗️لطفا شماره را بصورت عدد ارسال کنید️",$msg_id);}
 }
@@ -323,6 +323,6 @@ sendmsg($user_id,"کانال سورس  خونه
 
 و همچنین برای  پیشرفت کردن در عرصه های برنامه نویسی .. عضو کانال بشید
 
-🆔 @Merzadnkzbomber",$msg_id,$back);
+🆔 @hackgm",$msg_id,$back);
 }
 ?>
